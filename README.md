@@ -23,3 +23,19 @@ with the game; and
   it is a draw when both get same value; 
 - If one player gets blackjack at the beginning of the game, the only way to win for the opponent is to get exactly 21;
 - Both get the blackjack and the game is a tie.
+
+### How to Install
+
+You can download the project directly from the master branch or clone it using gitbash:
+```
+git clone github.com/einyan03/blackjack.git
+cd blackjack
+```
+
+If you have already installed python and want to run the script, open the terminal and run the following commend line: 
+```
+$ python blackjack.py
+```
+
+### Limitations
+This provided solution only acts as the most simplified version of a Blackjack game that aims to provide understandings on OOP paradigm alongside the usage of proper control structures for the implementation of algorithms. Hence, the current solution lacks to provide intricate game play and features as per the standards of general Blackjack and there is room for improvement in terms of code style and quality followed by a more user-friendly approach.
